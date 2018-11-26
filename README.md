@@ -17,4 +17,4 @@ Free Download Music and Stream Music
 Please note that, this program "Joox Lite" was created to make it easier for you to stream music directly from joox.com
 
 # Disclaimer
-We are not responsible for any activities carried out using this program.
+All copyright of music belongs to the creator.
