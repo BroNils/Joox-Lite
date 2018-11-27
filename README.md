@@ -15,7 +15,7 @@ Free Download Music and Stream Music
 
 # Trusted 100%
 [VirusTotal](https://www.virustotal.com/#/file/faca8af524b3836d63ae0bd189b525b8181a6245da14a95ec12901ad30ccbc58/detection)
-[MetaScan](https://metadefender.opswat.com/results#!/file/bzE4MTEyN3JKc2czeG9Wc1JRU0oybGh4aUVpUm0/regular/overview)
+<br>[MetaScan](https://metadefender.opswat.com/results#!/file/bzE4MTEyN3JKc2czeG9Wc1JRU0oybGh4aUVpUm0/regular/overview)
 
 # Privacy Policy
 Please note that, this program "Joox Lite" was created to make it easier for you to stream music directly from joox.com
