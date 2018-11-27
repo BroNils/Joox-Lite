@@ -13,6 +13,10 @@ Free Download Music and Stream Music
 # Alternative Download
 [MEGA](https://mega.nz/#!eJEy0QhC!J3nuJD1GQ5tw7KAbWG0s0tt6dPAj0eexdscmRED1p9U) or [Mediafire](https://www.mediafire.com/file/vsgqbnqh6fs2vgc/Joox_Lite.exe/file)
 
+# Trusted 100%
+[VirusTotal](https://www.virustotal.com/#/file/faca8af524b3836d63ae0bd189b525b8181a6245da14a95ec12901ad30ccbc58/detection)
+[MetaScan](https://metadefender.opswat.com/results#!/file/bzE4MTEyN3JKc2czeG9Wc1JRU0oybGh4aUVpUm0/regular/overview)
+
 # Privacy Policy
 Please note that, this program "Joox Lite" was created to make it easier for you to stream music directly from joox.com
 
