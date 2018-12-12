@@ -1,4 +1,4 @@
-# ![JOOX](./joox600x400.jpg =50x50) Joox Lite
+# ![](./joox600x400.jpg =50x50) Joox Lite
 [![.NET](https://img.shields.io/badge/.NET-%3E=%204.5-blue.svg)](https://www.microsoft.com/en-us/download/details.aspx?id=30653) [![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/GoogleX133/Joox-Lite/blob/master/LICENSE) [![Version](https://img.shields.io/badge/release-1.3-1bbc30.svg)](https://github.com/GoogleX133/Joox-Lite/)<br><br>
 Free Download Music and Stream Music
 
