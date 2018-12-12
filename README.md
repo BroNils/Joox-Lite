@@ -14,11 +14,11 @@ Free Download Music and Stream Music
 [![Video](https://img.youtube.com/vi/zfLGuKPO6m0/0.jpg)](https://www.youtube.com/watch?v=zfLGuKPO6m0)
 
 # Alternative Download
-[MEGA](https://mega.nz/#!TFMWwK7T!WjH3MrUdB45WzneWh6S2UqHC3H4z9Zg5AejFRHKDuCo) or [Mediafire](https://www.mediafire.com/file/4h355qq9mz24ltn/Joox_Lite.exe/file)
+[MEGA](https://mega.nz/#!ndExTaiI!Zt4dPXxl3eCEJsI_R_s6M_dKVMl7RIlxxKA3iFHSA8E) or [Mediafire](https://www.mediafire.com/file/bhertthhbcpriat/Joox_Lite.exe/file)
 
 # Trusted 100%
-[VirusTotal](https://www.virustotal.com/#/file/edf44497e55c9ad2462ce79134793fbd0cf4217b48e31e0a6abeb4815a86cb2e/detection)
-<br>[MetaScan](https://metadefender.opswat.com/results#!/file/bzE4MTIwNkJKN1dKZy1xSXk0U3lWVzFsLTlMeTQ/regular/overview)
+[VirusTotal](https://www.virustotal.com/#/file/b66b09cb50157ded8fe51fe2a3c4341ee7e0a9924b633123d5ea0dad3ac877b5/detection)
+<br>[MetaScan](https://metadefender.opswat.com/results#!/file/bzE4MTIxMnJKQXBXbEhDSk5IeTFnNmJnQkNKNA/regular/overview)
 
 # Privacy Policy
 Please note that, this program "Joox Lite" was created to make it easier for you to stream music directly from joox.com
